@@ -27,4 +27,4 @@ To reproduce this code, follow below instructions. Make sure you have python 3 i
 <p>Dataset grid </p>
 <img src="screenshots/dataset.png" alt="original dataset grid" width="" height="">
 <p>Prediction grid </p>
-<img src="screenshots/dataset.png" alt="predict grid" width="800" height="400">
+<img src="screenshots/iris_grid.png" alt="predict grid" width="" height="">
