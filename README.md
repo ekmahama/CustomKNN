@@ -23,3 +23,4 @@ To reproduce this code, follow below instructions. Make sure you have python 3 i
   <li>custom_knn_accuracy: 83.33333333333334</li>
   <li>sk_knn_accuracy: 84.66666666666667</li>
 </ul>
+<h2>Plots of dataset and results on 2D grid </h2>
