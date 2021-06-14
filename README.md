@@ -25,6 +25,6 @@ To reproduce this code, follow below instructions. Make sure you have python 3 i
 </ul>
 <h2>Plots of dataset and results on 2D grid </h2>
 <p>Dataset grid </p>
-<img src="screenshots/dataset.png" alt="original dataset grid" width="" height="">
+<img src="screenshots/dataset.png" alt="original dataset grid" width="650" height="600">
 <p>Prediction grid </p>
-<img src="screenshots/iris_grid.png" alt="predict grid" width="600" height="600">
+<img src="screenshots/iris_grid.png" alt="predict grid" width="650" height="600">
