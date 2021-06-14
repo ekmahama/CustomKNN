@@ -1,2 +1,2 @@
 # CustomKNN
-I created a custom K Nearest Neighbour and compared it performance with Scikit Learn KNN implementation
+I created my own K Nearest Neighbour classify and compared it performance with Scikit Learn KNN implementation
