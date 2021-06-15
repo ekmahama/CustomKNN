@@ -4,7 +4,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 import random
 import scipy.stats as ss
-
+"""
+I implemented a custom K Nearest Neighbor Classify and compared the resutls with sklearn knn imlementation
+"""
 
 def distance(p1, p2):
     """
